@@ -1,0 +1,14 @@
+import "OmniRobot.idsl";
+
+Component omnirobotVREP
+{
+	Communications
+	{
+		implements OmniRobot;
+		//requires otherName;
+		//subscribesTo topicToSubscribeTo;
+		//publishes topicToPublish;
+	};
+	language python;
+};
+

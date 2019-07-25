@@ -1,0 +1,14 @@
+/home/nikhil/robocomp/myComponent/CMakeFiles/install/strip.dir
+/home/nikhil/robocomp/myComponent/CMakeFiles/install.dir
+/home/nikhil/robocomp/myComponent/CMakeFiles/install/local.dir
+/home/nikhil/robocomp/myComponent/CMakeFiles/list_install_components.dir
+/home/nikhil/robocomp/myComponent/CMakeFiles/edit_cache.dir
+/home/nikhil/robocomp/myComponent/CMakeFiles/rebuild_cache.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/install/strip.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/edit_cache.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/MyFirstComp.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/rebuild_cache.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/list_install_components.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/install/local.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/install.dir
+/home/nikhil/robocomp/myComponent/src/CMakeFiles/MyFirstComp_autogen.dir
